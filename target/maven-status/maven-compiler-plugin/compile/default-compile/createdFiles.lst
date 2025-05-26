@@ -1,0 +1,5 @@
+com/tests/resources/LibraryResource.class
+com/tests/repositories/BookRepository.class
+com/tests/models/Book.class
+com/tests/GreetingResource.class
+com/tests/services/LibraryService.class

@@ -1,0 +1,14 @@
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/GreetingResourceIT.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/GreetingResourceTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/config/TestBookRepository.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/interfaces/TransactionalTestContext.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/nativetests/NativeLibraryResourceIT.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/profiles/CustomTestProfile.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/repositories/BookRepositoryIntegrationTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/resources/CustomLibraryResourceManualTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/resources/LibraryHttpEndpointIntegrationTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/resources/LibraryResourceInjectSpyIntegrationTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/resources/LibraryResourceIntegrationTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/services/LibraryServiceIntegrationTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/services/LibraryServiceQuarkusMockUnitSimplifiedTest.java
+/home/marcelo/Development/Java/projetos/simple-quarkus-tests/src/test/java/com/tests/services/LibraryServiceQuarkusMockUnitTest.java

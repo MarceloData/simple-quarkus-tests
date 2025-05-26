@@ -1,0 +1,14 @@
+com/tests/resources/CustomLibraryResourceManualTest.class
+com/tests/GreetingResourceTest.class
+com/tests/services/LibraryServiceQuarkusMockUnitTest.class
+com/tests/services/LibraryServiceIntegrationTest.class
+com/tests/nativetests/NativeLibraryResourceIT.class
+com/tests/resources/LibraryResourceIntegrationTest.class
+com/tests/profiles/CustomTestProfile.class
+com/tests/config/TestBookRepository.class
+com/tests/services/LibraryServiceQuarkusMockUnitSimplifiedTest.class
+com/tests/GreetingResourceIT.class
+com/tests/interfaces/TransactionalTestContext.class
+com/tests/repositories/BookRepositoryIntegrationTest.class
+com/tests/resources/LibraryHttpEndpointIntegrationTest.class
+com/tests/resources/LibraryResourceInjectSpyIntegrationTest.class
